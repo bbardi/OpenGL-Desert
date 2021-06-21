@@ -1,0 +1,755 @@
+# Blender MTL File: 'desert.blend'
+# Material Count: 58
+
+newmtl 10436_Cactus_v1
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588200 0.588200 0.588200
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd cactus.jpg
+
+newmtl 10436_Cactus_v1.001
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588200 0.588200 0.588200
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd cactus.jpg
+
+newmtl 10436_Cactus_v1.002
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588200 0.588200 0.588200
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd cactus.jpg
+
+newmtl 10436_Cactus_v1.003
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588200 0.588200 0.588200
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd cactus.jpg
+
+newmtl 10436_Cactus_v1.004
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588200 0.588200 0.588200
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd cactus.jpg
+
+newmtl Cap_03
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd Cap_03.tga
+map_d Cap_03.tga
+
+newmtl Cap_03.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd Cap_03.tga
+map_d Cap_03.tga
+
+newmtl Cap_03.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd Cap_03.tga
+map_d Cap_03.tga
+
+newmtl Cap_03.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd Cap_03.tga
+map_d Cap_03.tga
+
+newmtl Cap_03.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd Cap_03.tga
+map_d Cap_03.tga
+
+newmtl CoconutPalmBark
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd Palmetto_bark_2.png
+map_d Palmetto_bark_2.png
+
+newmtl CoconutPalmBark.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd Palmetto_bark_2.png
+map_d Palmetto_bark_2.png
+
+newmtl CoconutPalmBark.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd Palmetto_bark_2.png
+map_d Palmetto_bark_2.png
+
+newmtl CoconutPalmBark.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd Palmetto_bark_2.png
+map_d Palmetto_bark_2.png
+
+newmtl CoconutPalmBark.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd Palmetto_bark_2.png
+map_d Palmetto_bark_2.png
+
+newmtl CoconutPalmClip
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd CoconutPalmClip.tga
+map_d CoconutPalmClip.tga
+
+newmtl CoconutPalmClip.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd CoconutPalmClip.tga
+map_d CoconutPalmClip.tga
+
+newmtl CoconutPalmClip.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd CoconutPalmClip.tga
+map_d CoconutPalmClip.tga
+
+newmtl CoconutPalmClip.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd CoconutPalmClip.tga
+map_d CoconutPalmClip.tga
+
+newmtl CoconutPalmClip.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd CoconutPalmClip.tga
+map_d CoconutPalmClip.tga
+
+newmtl CoconutPalmLeaflet_1
+Ns 63.999992
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.501961 0.501961 0.501961
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd CoconutPalmLeaflet_1.tga
+map_Ks CoconutPalmLeaflet_1_Spec.tga
+map_d CoconutPalmLeaflet_1.tga
+
+newmtl CoconutPalmLeaflet_1.001
+Ns 63.999992
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.501961 0.501961 0.501961
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd CoconutPalmLeaflet_1.tga
+map_Ks CoconutPalmLeaflet_1_Spec.tga
+map_d CoconutPalmLeaflet_1.tga
+
+newmtl CoconutPalmLeaflet_1.002
+Ns 63.999992
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.501961 0.501961 0.501961
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd CoconutPalmLeaflet_1.tga
+map_Ks CoconutPalmLeaflet_1_Spec.tga
+map_d CoconutPalmLeaflet_1.tga
+
+newmtl CoconutPalmLeaflet_1.003
+Ns 63.999992
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.501961 0.501961 0.501961
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd CoconutPalmLeaflet_1.tga
+map_Ks CoconutPalmLeaflet_1_Spec.tga
+map_d CoconutPalmLeaflet_1.tga
+
+newmtl CoconutPalmLeaflet_1.004
+Ns 63.999992
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.501961 0.501961 0.501961
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd CoconutPalmLeaflet_1.tga
+map_Ks CoconutPalmLeaflet_1_Spec.tga
+map_d CoconutPalmLeaflet_1.tga
+
+newmtl CoconutPalmLeaflet_2
+Ns 63.999992
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.501961 0.501961 0.501961
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd CoconutPalmLeaflet_2.tga
+map_Ks CoconutPalmLeaflet_2_Spec.tga
+map_d CoconutPalmLeaflet_2.tga
+
+newmtl CoconutPalmLeaflet_2.001
+Ns 63.999992
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.501961 0.501961 0.501961
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd CoconutPalmLeaflet_2.tga
+map_Ks CoconutPalmLeaflet_2_Spec.tga
+map_d CoconutPalmLeaflet_2.tga
+
+newmtl CoconutPalmLeaflet_2.002
+Ns 63.999992
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.501961 0.501961 0.501961
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd CoconutPalmLeaflet_2.tga
+map_Ks CoconutPalmLeaflet_2_Spec.tga
+map_d CoconutPalmLeaflet_2.tga
+
+newmtl CoconutPalmLeaflet_2.003
+Ns 63.999992
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.501961 0.501961 0.501961
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd CoconutPalmLeaflet_2.tga
+map_Ks CoconutPalmLeaflet_2_Spec.tga
+map_d CoconutPalmLeaflet_2.tga
+
+newmtl CoconutPalmLeaflet_2.004
+Ns 63.999992
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.501961 0.501961 0.501961
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd CoconutPalmLeaflet_2.tga
+map_Ks CoconutPalmLeaflet_2_Spec.tga
+map_d CoconutPalmLeaflet_2.tga
+
+newmtl CoconutPalmLeaflet_3
+Ns 63.999992
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.501961 0.501961 0.501961
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd CoconutPalmLeaflet_3.tga
+map_Ks CoconutPalmLeaflet_3_Spec.tga
+map_d CoconutPalmLeaflet_3.tga
+
+newmtl CoconutPalmLeaflet_3.001
+Ns 63.999992
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.501961 0.501961 0.501961
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd CoconutPalmLeaflet_3.tga
+map_Ks CoconutPalmLeaflet_3_Spec.tga
+map_d CoconutPalmLeaflet_3.tga
+
+newmtl CoconutPalmLeaflet_3.002
+Ns 63.999992
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.501961 0.501961 0.501961
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd CoconutPalmLeaflet_3.tga
+map_Ks CoconutPalmLeaflet_3_Spec.tga
+map_d CoconutPalmLeaflet_3.tga
+
+newmtl CoconutPalmLeaflet_3.003
+Ns 63.999992
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.501961 0.501961 0.501961
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd CoconutPalmLeaflet_3.tga
+map_Ks CoconutPalmLeaflet_3_Spec.tga
+map_d CoconutPalmLeaflet_3.tga
+
+newmtl CoconutPalmLeaflet_3.004
+Ns 63.999992
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.501961 0.501961 0.501961
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd CoconutPalmLeaflet_3.tga
+map_Ks CoconutPalmLeaflet_3_Spec.tga
+map_d CoconutPalmLeaflet_3.tga
+
+newmtl CoconutPalmLeaflet_4
+Ns 63.999992
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.501961 0.501961 0.501961
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd CoconutPalmLeaflet_4.tga
+map_Ks CoconutPalmLeaflet_4_Spec.tga
+map_d CoconutPalmLeaflet_4.tga
+
+newmtl CoconutPalmLeaflet_4.001
+Ns 63.999992
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.501961 0.501961 0.501961
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd CoconutPalmLeaflet_4.tga
+map_Ks CoconutPalmLeaflet_4_Spec.tga
+map_d CoconutPalmLeaflet_4.tga
+
+newmtl CoconutPalmLeaflet_4.002
+Ns 63.999992
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.501961 0.501961 0.501961
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd CoconutPalmLeaflet_4.tga
+map_Ks CoconutPalmLeaflet_4_Spec.tga
+map_d CoconutPalmLeaflet_4.tga
+
+newmtl CoconutPalmLeaflet_4.003
+Ns 63.999992
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.501961 0.501961 0.501961
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd CoconutPalmLeaflet_4.tga
+map_Ks CoconutPalmLeaflet_4_Spec.tga
+map_d CoconutPalmLeaflet_4.tga
+
+newmtl CoconutPalmLeaflet_4.004
+Ns 63.999992
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.501961 0.501961 0.501961
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd CoconutPalmLeaflet_4.tga
+map_Ks CoconutPalmLeaflet_4_Spec.tga
+map_d CoconutPalmLeaflet_4.tga
+
+newmtl CoconutSkin
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd CoconutSkin.tga
+map_d CoconutSkin.tga
+
+newmtl CoconutSkin.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd CoconutSkin.tga
+map_d CoconutSkin.tga
+
+newmtl CoconutSkin.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd CoconutSkin.tga
+map_d CoconutSkin.tga
+
+newmtl CoconutSkin.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd CoconutSkin.tga
+map_d CoconutSkin.tga
+
+newmtl CoconutSkin.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd CoconutSkin.tga
+map_d CoconutSkin.tga
+
+newmtl FrondStem
+Ns 51.400012
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.337255 0.337255 0.337255
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd Stem_3.png
+map_Ks Stem_3_Gloss.png
+map_d Stem_3.png
+
+newmtl FrondStem.001
+Ns 51.400012
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.337255 0.337255 0.337255
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd Stem_3.png
+map_Ks Stem_3_Gloss.png
+map_d Stem_3.png
+
+newmtl FrondStem.002
+Ns 51.400012
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.337255 0.337255 0.337255
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd Stem_3.png
+map_Ks Stem_3_Gloss.png
+map_d Stem_3.png
+
+newmtl FrondStem.003
+Ns 51.400012
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.337255 0.337255 0.337255
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd Stem_3.png
+map_Ks Stem_3_Gloss.png
+map_d Stem_3.png
+
+newmtl FrondStem.004
+Ns 51.400012
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.337255 0.337255 0.337255
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd Stem_3.png
+map_Ks Stem_3_Gloss.png
+map_d Stem_3.png
+
+newmtl Material.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd color.jpg
+
+newmtl Material.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd color.jpg
+
+newmtl Material.003
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd color.jpg
+
+newmtl Material.004
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd color.jpg
+
+newmtl Material.005
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd color.jpg
+
+newmtl Material.006
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd color.jpg
+
+newmtl Material.007
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd color.jpg
+
+newmtl Material.008
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd color.jpg
